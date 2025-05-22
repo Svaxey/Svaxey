@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey Guys! My names Ben and I am currently a DePaul Catholic student sudying Computer Science 😊 Lets go comp sci?
 
 <!--
 **Svaxey/Svaxey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
